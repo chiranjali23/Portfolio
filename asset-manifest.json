@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/chiranjali23/Portfolio/static/css/main.d7a656bd.css",
+    "main.js": "/chiranjali23/Portfolio/static/js/main.6c7b7c71.js",
+    "static/js/453.1407b060.chunk.js": "/chiranjali23/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Fresh flower.png": "/chiranjali23/Portfolio/static/media/Fresh flower.9881475e42f9bb9b60fd.png",
+    "static/media/conferenceday.png": "/chiranjali23/Portfolio/static/media/conferenceday.f1cc87c74e5ec4031a71.png",
+    "static/media/BMI calculater.png": "/chiranjali23/Portfolio/static/media/BMI calculater.fd0b7659eb92227654c3.png",
+    "static/media/Academy.png": "/chiranjali23/Portfolio/static/media/Academy.ddddc10787f8ac46338c.png",
+    "static/media/japanes food.png": "/chiranjali23/Portfolio/static/media/japanes food.fb98d2e73cec8b410e7c.png",
+    "static/media/my.jpeg": "/chiranjali23/Portfolio/static/media/my.1f218d014dca468be269.jpeg",
+    "index.html": "/chiranjali23/Portfolio/index.html",
+    "main.d7a656bd.css.map": "/chiranjali23/Portfolio/static/css/main.d7a656bd.css.map",
+    "main.6c7b7c71.js.map": "/chiranjali23/Portfolio/static/js/main.6c7b7c71.js.map",
+    "453.1407b060.chunk.js.map": "/chiranjali23/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a656bd.css",
+    "static/js/main.6c7b7c71.js"
+  ]
+}
