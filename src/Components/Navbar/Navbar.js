@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import './Navbar.css';
-import logo4 from '../../../src/Image/logo4.png';
+import Mylogo from '../../Image/mylogo.png';
 import { FaBars,FaTimes} from 'react-icons/fa';
 
 
@@ -17,7 +17,7 @@ export default function Navbar() {
   
   return (
     <div className="NavbarContainer">
-      <img src={logo4} alt="logo" className="logo" />
+      <img src={Mylogo} alt="logo" className="logo" />
       <FaBars className='nav-mob-open' onClick={OpenMenu} />
       
       
