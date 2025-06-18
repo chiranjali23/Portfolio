@@ -28,7 +28,7 @@ export default function Hero() {
           download='MY CV.pdf'
           target='_blank'
           rel ="noopener noreferrer"
-          style={{color:'white',textDecoration :'none'}}>Download My CV</a>
+          style={{color:'white',textDecoration :'none'}}>Download CV</a>
         </div>
 
         <div className='hero-btns' onClick={() => {
