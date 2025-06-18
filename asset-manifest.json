@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cd7ee1f.css",
-    "main.js": "/static/js/main.33503a1d.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/Fresh flower.png": "/static/media/Fresh flower.9881475e42f9bb9b60fd.png",
-    "static/media/conferenceday.png": "/static/media/conferenceday.f1cc87c74e5ec4031a71.png",
-    "static/media/BMI calculater.png": "/static/media/BMI calculater.fd0b7659eb92227654c3.png",
-    "static/media/Academy.png": "/static/media/Academy.ddddc10787f8ac46338c.png",
-    "static/media/japanes food.png": "/static/media/japanes food.fb98d2e73cec8b410e7c.png",
-    "static/media/my.jpeg": "/static/media/my.1f218d014dca468be269.jpeg",
-    "static/media/mylogo.png": "/static/media/mylogo.710fe1af901fb8a88726.png",
-    "index.html": "/index.html",
-    "main.3cd7ee1f.css.map": "/static/css/main.3cd7ee1f.css.map",
-    "main.33503a1d.js.map": "/static/js/main.33503a1d.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/Portfolio.git/static/css/main.3cd7ee1f.css",
+    "main.js": "/Portfolio.git/static/js/main.55a1445e.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio.git/static/js/453.1407b060.chunk.js",
+    "static/media/Fresh flower.png": "/Portfolio.git/static/media/Fresh flower.9881475e42f9bb9b60fd.png",
+    "static/media/conferenceday.png": "/Portfolio.git/static/media/conferenceday.f1cc87c74e5ec4031a71.png",
+    "static/media/BMI calculater.png": "/Portfolio.git/static/media/BMI calculater.fd0b7659eb92227654c3.png",
+    "static/media/Academy.png": "/Portfolio.git/static/media/Academy.ddddc10787f8ac46338c.png",
+    "static/media/japanes food.png": "/Portfolio.git/static/media/japanes food.fb98d2e73cec8b410e7c.png",
+    "static/media/my.jpeg": "/Portfolio.git/static/media/my.1f218d014dca468be269.jpeg",
+    "static/media/mylogo.png": "/Portfolio.git/static/media/mylogo.710fe1af901fb8a88726.png",
+    "index.html": "/Portfolio.git/index.html",
+    "main.3cd7ee1f.css.map": "/Portfolio.git/static/css/main.3cd7ee1f.css.map",
+    "main.55a1445e.js.map": "/Portfolio.git/static/js/main.55a1445e.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio.git/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cd7ee1f.css",
-    "static/js/main.33503a1d.js"
+    "static/js/main.55a1445e.js"
   ]
 }
