@@ -24,8 +24,8 @@ export default function Hero() {
 
       <div className='Details'>
         <div className='hero-btns'>
-          <a href='/MY CV.pdf'
-          download='MY CV.pdf'
+          <a href='/MYCV.pdf'
+          download
           target='_blank'
           rel ="noopener noreferrer"
           style={{color:'white',textDecoration :'none'}}>Download CV</a>
