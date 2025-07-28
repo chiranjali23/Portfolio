@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import logo3 from '../../../src/Image/logo3.png';
+import logo4 from '../../../src/Image/logo4.png';
 import { FaUser, FaFacebookF, FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa';
 
 export default function Footer() {
@@ -8,7 +8,7 @@ export default function Footer() {
     <div className='footer'>
       <div className='footer-top'>
         <div className='footer-top-left'>
-          <img src={logo3} alt="logo" clssName="logo"/>
+          <img src={logo4} alt="logo" clssName="logo"/>
           <p>I am a fullstack developer passionate about building modern and user-friendly web applications.</p>
         </div>
 

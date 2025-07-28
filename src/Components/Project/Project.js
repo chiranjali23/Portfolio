@@ -23,6 +23,7 @@ export default function Project() {
           <div className="project-item" key={index}>
             <img src={project.img} alt={project.name} link ={project.github}className="project-image" />
             <h2 className="project-name">{project.name}</h2>
+            <h6 className='discription'>{project.discription}</h6>
             <a href className="project-link">{project.github}</a>
           </div>
         ))}
