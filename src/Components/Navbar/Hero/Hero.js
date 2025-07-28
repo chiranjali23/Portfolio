@@ -24,11 +24,13 @@ export default function Hero() {
 
       <div className='Details'>
         <div className='hero-btns'>
+
         <a href='/MY CV.pdf'
           download="MY CV.pdf"
           target='_blank'
           rel ="noopener noreferrer"
           style={{color:'white',textDecoration :'none'}}>Dawnlode My CV</a>
+
         </div>
 
         <div className='hero-btns' onClick={() => {
