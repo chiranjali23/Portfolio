@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3cd7ee1f.css",
-    "main.js": "/Portfolio/static/js/main.e5d8390d.js",
+    "main.css": "/Portfolio/static/css/main.d068bd1a.css",
+    "main.js": "/Portfolio/static/js/main.f4a7130c.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Fresh flower.png": "/Portfolio/static/media/Fresh flower.9881475e42f9bb9b60fd.png",
     "static/media/conferenceday.png": "/Portfolio/static/media/conferenceday.f1cc87c74e5ec4031a71.png",
@@ -10,13 +10,14 @@
     "static/media/japanes food.png": "/Portfolio/static/media/japanes food.fb98d2e73cec8b410e7c.png",
     "static/media/my.jpeg": "/Portfolio/static/media/my.1f218d014dca468be269.jpeg",
     "static/media/mylogo.png": "/Portfolio/static/media/mylogo.710fe1af901fb8a88726.png",
+    "static/media/logo4.png": "/Portfolio/static/media/logo4.af9d38e459e5ea2230ad.png",
     "index.html": "/Portfolio/index.html",
-    "main.3cd7ee1f.css.map": "/Portfolio/static/css/main.3cd7ee1f.css.map",
-    "main.e5d8390d.js.map": "/Portfolio/static/js/main.e5d8390d.js.map",
+    "main.d068bd1a.css.map": "/Portfolio/static/css/main.d068bd1a.css.map",
+    "main.f4a7130c.js.map": "/Portfolio/static/js/main.f4a7130c.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cd7ee1f.css",
-    "static/js/main.e5d8390d.js"
+    "static/css/main.d068bd1a.css",
+    "static/js/main.f4a7130c.js"
   ]
 }
